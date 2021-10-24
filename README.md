@@ -1,6 +1,7 @@
 # Math
 
 This repository has a strong relationship with math and contains many math formulas.
+
 You need to install GitHub Math Display plugin for chrome to display the formulas correctly.
 
 ## Language
