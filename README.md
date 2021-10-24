@@ -8,8 +8,12 @@ I will only maintain the the English version. Other language may appear sometime
 
 My English is not very good, so there will be many expression may confuse you.
 
-## Current research
+## Research
 
 ### ML
 
 I am doing a project using ML and also learning ML in the same time.
+
+## Status
+
+LTS and will stop update at July, 2022.
